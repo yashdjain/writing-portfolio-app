@@ -1,0 +1,16 @@
+.shortInput {
+    display: block;
+    margin-right: 1000px;
+}
+
+.longInput {
+    margin-top: 20px;
+    display: block;
+    height: 300px;
+    width: 800px;
+}
+
+.save-button {
+    display: block;
+    margin-top: 10px;
+}
